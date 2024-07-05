@@ -10,6 +10,11 @@ https://pawfectindiaa.netlify.app/
 
 ![App Screenshot](https://drive.google.com/file/d/1fg2WCnZYuyQ_Da0wFpadMwQ1wuBmTT0p/view?usp=sharing)
 
+## Authors
+
+- [@dhruveww](https://github.com/dhruveww)
+- [@snayhell](https://github.com/snayhell)
+
 ## Features
 
 - Animal Profiles: View detailed profiles of animals in need of adoption, including their medical history and personality traits.
